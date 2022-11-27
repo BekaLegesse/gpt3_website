@@ -35,6 +35,9 @@ const Footer = () => {
           <p>info@payme.net</p>
         </div>
       </div>
+      <div className='gpt3__footer-copyright'>
+        <p>&copy; GPT3-3 Beka Legesse. All right reserved.</p>
+      </div>
     </div>
   )
 }
