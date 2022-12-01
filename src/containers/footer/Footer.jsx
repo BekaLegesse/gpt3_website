@@ -30,9 +30,9 @@ const Footer = () => {
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Get in touch</h4>
-          <p>Crechterwoord K12 182 DK Alknjkcb</p>
-          <p>085-132567</p>
-          <p>info@payme.net</p>
+          <p>Addis Ababa, Ethiopia</p>
+          <p>+251 946391774</p>
+          <p>bekalegesse9@gmail.com</p>
         </div>
       </div>
       <div className='gpt3__footer-copyright'>
