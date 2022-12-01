@@ -1,5 +1,6 @@
 .gpt3__header{
     display: flex;
+    margin-top: 6.5rem;
 }
 .gpt3__header-content{
     flex: 1;
