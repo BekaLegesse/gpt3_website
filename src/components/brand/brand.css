@@ -6,7 +6,7 @@
 }
 .gpt3__brand div{
     flex: 1;
-    max-width: 150px;
+    max-width: 350px;
     min-width: 120px;
     display: flex;
     justify-content: center;

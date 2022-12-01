@@ -3,6 +3,11 @@
     justify-content: space-between;
     align-items: center;
     padding: 2rem 6rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    top: 0; 
 }
 .gpt3__navbar-links{
     flex: 1;
